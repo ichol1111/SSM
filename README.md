@@ -1,1 +1,1 @@
-融合了Spring,SpirngMVC和Mybatis的框架。具体地写明了使用各个框架时的配置文件。
+融合了Spring,SpirngMVC和Mybatis的框架。具体地写明了使用各个框架时的配置文件。是跟着教学视频做的总结
